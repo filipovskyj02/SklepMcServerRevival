@@ -3,9 +3,9 @@ enablesiege = true
 #Enable Increased Enemy Presence
 incenemies = true
 #Should special mobs spawn riding other mobs?
-isjockies = true
+isjockies = false
 #Charged Creepers Spawn Naturally
-ischargedcreepers = true
+ischargedcreepers = false
 #Allow Bloodlusting Enemies
 isbloodlusting = true
 #Give Zombies Pickaxes and Weapons?
@@ -25,17 +25,17 @@ iszombiegriefing = true
 #Allow Zombies To Place Blocks? DEPRECATED - REPLACED BY mobGriefing game rule. Will be removed in future.
 iszombiebuilding = true
 #Allow Spiders to Shoot Webs?
-isspidershootwebs = true
+isspidershootwebs = false
 #Can Creepers Breach Walls?
 iscreeperbreaching = true
 #Do entities bounce when they touch water? Default = true.
 isoceansurfing = true
 #Allow Sleeping?
-allowsleep = false
+allowsleep = true
 #Allow Monster Infighting?
 allowmonsterinfighting = false
 #Allow Zombies and Piglins to light flammable things on fire?
-zombieslightfires = true
+zombieslightfires = false
 #Allow Super Skeletons to Spawn in the Game?
 allowsuperskeletons = true
 #Should monsters target villagers?
@@ -77,13 +77,13 @@ zombiefirechance = 1.0
 #Chance of More Powerful Skeleton Spawning
 superskeletonchance = 1.0
 #Cooloff time for entities breaking blocks in ticks
-entitydigdelay = 5
+entitydigdelay = 10
 #Cooloff time for entities placing blocks in ticks
-entitybuilddelay = 5
+entitybuilddelay = 40
 #If entity is within this distance for X and Z, it'll start digging to player
-entitydigdist = 32
+entitydigdist = 64
 #Above Ground Monster Attack Distance (in Blocks)
-grounddist = 96
+grounddist = 196
 #Below Ground Monster Attack Distance (in Blocks)
 cavedist = 48
 #Chance out of 100 for spider shooting webs each tick. Default = 0.5
