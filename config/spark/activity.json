@@ -1,0 +1,92 @@
+[
+  {
+    "user": {
+      "type": "other",
+      "name": "Console"
+    },
+    "time": 1725312626282,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/debwGa1Q40"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Thorfinn_Grimson",
+      "uniqueId": "681eb56a-364a-43fe-ad36-47dbf1788948"
+    },
+    "time": 1725307507350,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/DksPoxsACw"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Thorfinn_Grimson",
+      "uniqueId": "681eb56a-364a-43fe-ad36-47dbf1788948"
+    },
+    "time": 1725307023764,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/afpNoGdVJ1"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Thorfinn_Grimson",
+      "uniqueId": "681eb56a-364a-43fe-ad36-47dbf1788948"
+    },
+    "time": 1723975290323,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/FLgbU6S7xz"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Thorfinn_Grimson",
+      "uniqueId": "681eb56a-364a-43fe-ad36-47dbf1788948"
+    },
+    "time": 1723974570814,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/2zorUhhzbP"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Thorfinn_Grimson",
+      "uniqueId": "681eb56a-364a-43fe-ad36-47dbf1788948"
+    },
+    "time": 1722546383392,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/WhCdPlHQkh"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Thorfinn_Grimson",
+      "uniqueId": "681eb56a-364a-43fe-ad36-47dbf1788948"
+    },
+    "time": 1722546300663,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/GjvPr5pFNl"
+    }
+  }
+]
