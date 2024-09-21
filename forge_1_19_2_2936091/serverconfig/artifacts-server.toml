@@ -187,7 +187,7 @@
 		#Affects how many seconds the night vision effect should apply before breaking
 		#Setting this to 0 will make this item unbreakable
 		#Range: 0 ~ 32767
-		durability = 0
+		durability = 100
 
 	[items.novelty_drinking_hat]
 		#Affects how many items the player can drink or eat using the drinking hat before breaking
